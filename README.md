@@ -32,7 +32,7 @@
 
 | File | SHA-256 |
 |---|---|
-| `photonic-wallet-v3.0.4.exe` | `143d4d75f0330b370fe3ef0f7459b2c236e2f9dcdbb389a860583250fc0f1a05` |
+| `photonic-wallet-v3.0.4.exe` | `7c307516b1334fcce94a8c7d691312fdd69f62a22332a9e720ee2d46bf86df20` |
 | `photonic-wallet-v3.0.4.dmg` | `7ce8f1297177d9886c51a62cb6f3b114d87695c559cae339de7381dc22d2c3fb` |
 | `photonic-wallet-v3.0.4.zip` | `c1febefc9b6d409f7175a8d8ef2897bb0ab343f9c45f16585540a19dabdbab56` |
 <!-- SHA256:END -->
